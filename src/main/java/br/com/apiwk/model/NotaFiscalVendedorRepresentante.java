@@ -1,4 +1,4 @@
-package br.com.seuprojeto.model;
+package br.com.apiwk.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

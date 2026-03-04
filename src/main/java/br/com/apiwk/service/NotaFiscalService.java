@@ -1,8 +1,8 @@
-package br.com.seuprojeto.service;
+package br.com.apiwk.service;
 
-import br.com.seuprojeto.client.NotaFiscalClient;
-import br.com.seuprojeto.config.AppConfig;
-import br.com.seuprojeto.model.NotaFiscal;
+import br.com.apiwk.client.NotaFiscalClient;
+import br.com.apiwk.config.AppConfig;
+import br.com.apiwk.model.NotaFiscal;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

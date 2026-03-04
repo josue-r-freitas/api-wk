@@ -1,14 +1,14 @@
-package br.com.seuprojeto;
+package br.com.apiwk;
 
-import br.com.seuprojeto.config.AppConfig;
-import br.com.seuprojeto.report.ExcelReportGenerator;
-import br.com.seuprojeto.service.NotaFiscalService;
+import br.com.apiwk.config.AppConfig;
+import br.com.apiwk.report.ExcelReportGenerator;
+import br.com.apiwk.service.NotaFiscalService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.util.List;
 
-import br.com.seuprojeto.model.NotaFiscal;
+import br.com.apiwk.model.NotaFiscal;
 
 /**
  * Ponto de entrada da aplicação.

@@ -1,6 +1,6 @@
-package br.com.seuprojeto.client;
+package br.com.apiwk.client;
 
-import br.com.seuprojeto.config.AppConfig;
+import br.com.apiwk.config.AppConfig;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.hc.client5.http.classic.methods.HttpGet;
@@ -15,7 +15,7 @@ import org.slf4j.LoggerFactory;
 
 import java.net.URI;
 import java.nio.charset.StandardCharsets;
-import br.com.seuprojeto.model.NotaFiscal;
+import br.com.apiwk.model.NotaFiscal;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;

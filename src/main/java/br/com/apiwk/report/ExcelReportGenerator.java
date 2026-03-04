@@ -1,6 +1,6 @@
-package br.com.seuprojeto.report;
+package br.com.apiwk.report;
 
-import br.com.seuprojeto.model.NotaFiscal;
+import br.com.apiwk.model.NotaFiscal;
 import org.apache.poi.ss.usermodel.*;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.slf4j.Logger;

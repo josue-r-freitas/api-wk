@@ -1,4 +1,4 @@
-package br.com.seuprojeto.config;
+package br.com.apiwk.config;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
